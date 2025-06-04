@@ -1,0 +1,16 @@
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.exe
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.deps.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.runtimeconfig.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.runtimeconfig.dev.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\bin\Debug\net5.0\ex5-promedio-de-notas.pdb
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.AssemblyInfoInputs.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.AssemblyInfo.cs
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.csproj.CoreCompileInputs.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.sourcelink.json
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\refint\ex5-promedio-de-notas.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.pdb
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ex5-promedio-de-notas.genruntimeconfig.cache
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo 6.5-ex5\ex5-promedio-de-notas\obj\Debug\net5.0\ref\ex5-promedio-de-notas.dll

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 
 namespace ex5_promedio_de_notas
 {
@@ -6,6 +8,8 @@ namespace ex5_promedio_de_notas
     {
         static void Main(string[] args)
         {
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+
             float nota1, nota2, nota3, promedio;
 
             Console.WriteLine("Escribe tu primera nota:");
@@ -18,9 +22,9 @@ namespace ex5_promedio_de_notas
             Console.WriteLine("Escribe tu tercera nota:");
             nota3 = float.Parse(Console.ReadLine());
 
-            promedio = float.Parse((nota1 + nota2 + nota3) / 3, 1);
-            
-            Console.WriteLine($"El promedio final es: {promedio}")
+            promedio = (nota1 + nota2 + nota3) / 3;
+
+            Console.WriteLine($"El promedio final es: {promedio:F1}");
         }
     }
 }
